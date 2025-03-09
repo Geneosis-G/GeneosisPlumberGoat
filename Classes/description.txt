@@ -1,0 +1,42 @@
+It's-a me, Baaario!
+
+After fixing all the pipes problems of the Mushroom Kingdom (as well as some turtle invasion), Bario is now in Goatland, and the task might be even harder here...
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Plumber Goat: You can jump on people's heads and throw fireballs.
+- Plumber Theme: First track of the Top 50 Plumber songs of all time.
+
+[b]KEYBOARD CONTROLS[/b]
+- [b][Space]:[/b] Hold when jumping on a head to bounce.
+- [b]Double Backflip:[/b] Enable/disable Fireballs.
+- [b][LeftClick]:[/b] Throw a Fireball (if enabled).
+
+[b]GAMEPAD CONTROLS[/b]
+- [b][A]:[/b] Hold when jumping on a head to bounce.
+- [b]Double Backflip:[/b] Enable/disable Fireballs.
+- [b][RT]:[/b] Throw a Fireball (if enabled).
+
+[b]CHARACTERISTICS[/b]
+- You jump slightly higher than regular goats.
+- Jump on the head of an enemy to damage it (1 or 2 jumps to kill).
+- Jumping on the head of a ragdolled creature have no effect (no damage, no bounce).
+- Fireballs will bounce around for a few seconds then dissapear.
+- When a Fireball touch a creature it dissapear and the creature is set on fire.
+- Fireballs do not trigger explosives nor crack breakable items when touched.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Fireballs keep your goat momentum when thrown: Throw them while you run to get faster fireballs.[/spoiler]
+- [spoiler]If there is multiple creatures under you, you can keep bouncing on them ^^[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Fireballs might still trigger some explosions because of regular collision physics in the game.
+- Jumping on an enemy might have no effect: This happen if you hit the enemy sideway, instead of landing on top of it.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This mod idea was waiting in the list for quite a long time now, as it was suggested soon after I realeased the Sonic Goat mod (Of course, if there is Sonic, why not Mario :p).
+The original suggestion is pretty much what we have here : the ability to damage creatures by jumping on their head, and an option to throw some bouncting fireballs :) The head jump was quite simple, only some math to determine if the player is actually on top of a creature when a collision is detected. So I decided to enhance it with another ability you can find in all Mario game: the extra jump you get when you just bounced on a head ^^
+About the fireballs, the Magician from the MMO map have pretty cool ones already, so I took them and tweaked them so that they won't explode on impact any more. I added some bouncy physics to them as well, and the ability to turn people on fire when they encounter one on their trajectory :p
+Finally I had another huge idea to put in this mod, but I ended releasing the mod without it because it would take a lot of time to make it not laggy and balanced... In short, the idea was to reuse the Minecraft goat block placement ability to spread cubes all around the world. SOme cubes would just break, some other contain coins, or power ups, etc... So I keep track of this idea here, in case I get some extra motivation to bring it to life one day :D
+[/quote]
